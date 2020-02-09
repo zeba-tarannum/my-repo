@@ -1,2 +1,3 @@
-# my-repo
-My first repo
+# React Redux Login application
+
+An application to login with React & Redux.
